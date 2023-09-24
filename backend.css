@@ -13,6 +13,6 @@
   transform: scale(1.25);
 }
 
-ul#menu li {
-    display:inline;
-}
+ul.horizontal-list li {
+    display: inline-block;
+  }
