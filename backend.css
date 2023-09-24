@@ -19,7 +19,6 @@
 }
 
 ul.horizontal-list li {
-    margin:auto;
     display: inline-block;
     padding: 0 1rem;
   }
