@@ -16,3 +16,7 @@
 ul.horizontal-list li {
     display: inline-block;
   }
+
+ul.horizontal-list li {
+    padding: 0 0.5rem;
+}
